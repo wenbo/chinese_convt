@@ -1,0 +1,10 @@
+Firstly, git clone this repository.
+
+Secondly, run 
+  bundle install
+ 
+Thirdly run the command:
+
+ruby translate_chinese_character.rb
+
+then you can check all the txt file that all the traditional chinese should be converted into simple chinese.
